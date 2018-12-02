@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppLearnRussian", "LaernRussianApp\AppLearnRussian.csproj", "{29492592-448B-4709-927D-C2BCC8C670A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlLibrary", "ControlLibrary\ControlLibrary.csproj", "{E7D24F63-BA8B-4E15-BC08-88022C239CED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29492592-448B-4709-927D-C2BCC8C670A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29492592-448B-4709-927D-C2BCC8C670A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29492592-448B-4709-927D-C2BCC8C670A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29492592-448B-4709-927D-C2BCC8C670A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7D24F63-BA8B-4E15-BC08-88022C239CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7D24F63-BA8B-4E15-BC08-88022C239CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7D24F63-BA8B-4E15-BC08-88022C239CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7D24F63-BA8B-4E15-BC08-88022C239CED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF7DE222-2B64-46AD-AC53-2FE311C4A36C}
+	EndGlobalSection
+EndGlobal

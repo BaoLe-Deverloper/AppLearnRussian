@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User>
+    <UserName>BaoLe</UserName>
+    <Pass>1508</Pass>
+    <DateSignUp>7/22/2018 19:39:04</DateSignUp>
+    <FileImage>Data/Users/2219394.PNG</FileImage>
+    <Lever>A1</Lever>
+    <Admin>False</Admin>
+  </User>
+  <User>
+    <UserName>Admin</UserName>
+    <Pass>1</Pass>
+    <DateSignUp>7/22/2018 19:44:57</DateSignUp>
+    <FileImage>Data/Users/22194457.PNG</FileImage>
+    <Lever>A1</Lever>
+    <Admin>True</Admin>
+  </User>
+ 
+</Users>

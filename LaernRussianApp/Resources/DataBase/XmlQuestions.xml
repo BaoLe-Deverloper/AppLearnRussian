@@ -1,0 +1,1834 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Questions>
+  <Question>
+    <Number>1</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Как тебя … в детстве?</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>A.называли</A>
+    <B>Б. называется</B>
+    <C>В. называлась</C>
+    <D>Г. зовут</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>2</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Эта улица раньше … по-другому.</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>A.называли</A>
+    <B>Б. называется</B>
+    <C>В. называлась</C>
+    <D>Г. зовут</D>
+    <Grammar>Động Từ Chuyển Động</Grammar>
+  </Question>
+  <Question>
+    <Number>3</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Извините, Вы не скажете, как … этот музей?</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>A.называли</A>
+    <B>Б. называется</B>
+    <C>В. называлась</C>
+    <D>Г. зовут</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>4</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>В университете … много студентов.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. учат</A>
+    <B>Б. учится</B>
+    <C>В. учимся</C>
+    <D>Г. изучаем</D>
+    <Grammar>Danh Từ Các Cách</Grammar>
+  </Question>
+  <Question>
+    <Number>5</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Опытные	тренеры	…	маленьких детей плавать.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. учат</A>
+    <B>Б. учится</B>
+    <C>В. учимся</C>
+    <D>Г. изучаем</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>6</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>На уроках мы … фонетику, грамматику.</ContentQuestion>
+    <AnswerTrue>Г</AnswerTrue>
+    <A>А. учат</A>
+    <B>Б. учится</B>
+    <C>В. учимся</C>
+    <D>Г. изучаем</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>7</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Мой друг хорошо … по-английски, понемецки и по-русски.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. может</A>
+    <B>Б. понимает</B>
+    <C>В. знает</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>8</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>На уроках студенты говорят только …</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. английский язык</A>
+    <B>Б. по-английски</B>
+    <C>В. английским языком</C>
+    <D>Г. на английский язык</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>9</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Переведите текст с русского языка......</ContentQuestion>
+    <AnswerTrue>Г</AnswerTrue>
+    <A>А. английский язык</A>
+    <B>Б. по-английски</B>
+    <C>В. английским языком</C>
+    <D>Г. на английский язык</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>10</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Иван … нам, как он отдыхал летом на море</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. пересказал</A>
+    <B>Б. рассказывал</B>
+    <C>В. разговаривал</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>11</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Сестра любит … по телефону с утра до вечера.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. разговаривать</A>
+    <B>Б. повторять</B>
+    <C>В. ответить</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>12</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Я не знаю, как … на этот вопрос.</ContentQuestion>
+    <AnswerTrue>Г</AnswerTrue>
+    <A>А. рассказывать</A>
+    <B>Б. изучать</B>
+    <C>В. говорить</C>
+    <D>Г. отвечать</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>13</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Я не …, как называется эта улица.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. спрошу</A>
+    <B>Б. знаю</B>
+    <C>В. узнаю</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>14</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Я плохо …, что говорят по радио.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. запомню</A>
+    <B>Б. понимаю</B>
+    <C>В. вспоминаю</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>15</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Я никак не могу … номер её телефона</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. запомнить</A>
+    <B>Б. запоминать</B>
+    <C>В. вспомниться</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>16</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Нужно всегда … правила.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. запомнить</A>
+    <B>Б. запоминать</B>
+    <C>В. вспомниться</C>
+    <D></D>
+    <Grammar>Động Từ Chuyển Động</Grammar>
+  </Question>
+  <Question>
+    <Number>17</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Куда Вы …?</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. смотрите</A>
+    <B>Б. видите</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>18</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Неужели Вы не …, как здесь красиво?</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. смотрите</A>
+    <B>Б. видите</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>19</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Вы вечером … фильмы по телевизору?</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. смотрите</A>
+    <B>Б. видите</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>20</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Вы … номер автобуса?</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. смотрите</A>
+    <B>Б. видите</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>21</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Говорите! Мы вас внимательно …</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. слышим</A>
+    <B>Б. слушаем</B>
+    <C>В. услышим</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>22</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Что случилось? Мы … в соседней комнате шум.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. слышим</A>
+    <B>Б. слушаем</B>
+    <C>В. услышим</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>23</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Говорите, пожалуйста, громче, мы вас плохо … .</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. слышим</A>
+    <B>Б. слушаем</B>
+    <C>В. услышим</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>24</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Саша … у Тани, свободна ли она вечером?</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. попросил</A>
+    <B>Б. спросил</B>
+    <C>В. просил</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>25</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Брат часто … меня помочь ему решить задачи.</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. попросил</A>
+    <B>Б. спросил</B>
+    <C>В. просил</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>26</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>На фотографии был … артист..</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. знакомый</A>
+    <B>Б. известная</B>
+    <C>В. знаменитая</C>
+    <D>Г. старинний</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>27</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Моя … дочь ещё не умеет ходить.</ContentQuestion>
+    <AnswerTrue>Г</AnswerTrue>
+    <A>А. меньше</A>
+    <B>Б. младшый</B>
+    <C>В. небольшая</C>
+    <D>Г. маленькая</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>28</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Мне досталась … часть яблока</ContentQuestion>
+    <AnswerTrue>Г</AnswerTrue>
+    <A>А. меньшое</A>
+    <B>Б. младшая</B>
+    <C>В. небольшой</C>
+    <D>Г. маленькая</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>29</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Похолодание … в октябре.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. начиналась</A>
+    <B>Б. продолжалось</B>
+    <C>В. кончились</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>30</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Утро всегда … одинаково.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. начиналась</A>
+    <B>Б. продолжалось</B>
+    <C>В. кончилось</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>31</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>После обеда прошёл … .</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. 2 километра</A>
+    <B>Б. дождь</B>
+    <C>В. час назад</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>32</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Через … будет поворот направо.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. 2 километра</A>
+    <B>Б. дождь</B>
+    <C>В. часа</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>33</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Вчера я получил письмо … .</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. моему старому другу</A>
+    <B>Б. у моего старого друга</B>
+    <C>В. от моего старого друга</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>34</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Мы хотим пригласить в гости … </ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. школьного учителя</A>
+    <B>Б. школьному учителю</B>
+    <C>В. школьный учитель</C>
+    <D>Г. со школьным учителем</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>35</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Мы очень любим уроки …..</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. русская литература</A>
+    <B>Б. русской литературы</B>
+    <C>В. о русской литературе</C>
+    <D>Г. русской литературой</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>36</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Мой друг интересуется … .</ContentQuestion>
+    <AnswerTrue>Г</AnswerTrue>
+    <A>А. русская литература</A>
+    <B>Б. русской литературы</B>
+    <C>В. о русской литературе</C>
+    <D>Г. русской литературой</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>37</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Антон весь вечер переводил статью … .</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. русская литература</A>
+    <B>Б. русской литературы</B>
+    <C>В. о русской литературе</C>
+    <D>Г. русской литературой</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>38</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Виктор спросил … о времени экскурсии.</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. от своего друга</A>
+    <B>Б. своему другу</B>
+    <C>В. своего друга</C>
+    <D>Г. со своим другом</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>39</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Таня благодарна … за помощь.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. от своего друга</A>
+    <B>Б. своему другу</B>
+    <C>В. своего друга</C>
+    <D>Г. со своим другом</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>40</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Мы весь вечер спорили … о новом фильме.</ContentQuestion>
+    <AnswerTrue>Г</AnswerTrue>
+    <A>А. от своего друга</A>
+    <B>Б. своему другу</B>
+    <C>В. своего друга</C>
+    <D>Г. со своим другом</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>41</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Мой отец инженер. Он хорошо разбирается …</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. по технике</A>
+    <B>Б. в технике</B>
+    <C>В. техникой</C>
+    <D>Г. технику</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>42</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Брат купил учебник … чтения</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. по технике</A>
+    <B>Б. в технике</B>
+    <C>В. техникой</C>
+    <D>Г. технику</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>43</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Мои друзья с детства увлекаются … </ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. по технике</A>
+    <B>Б. в технике</B>
+    <C>В. техникой</C>
+    <D>Г. технику</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>44</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Дети интересуются … на завтра.</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. экскурсионную программу</A>
+    <B>Б. об экскурсионной программе</B>
+    <C>В. экскурсионной программой</C>
+    <D>Г. с экскурсионной программой</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>45</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Перед отъездом в Москву друзья долго спорили … .</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. экскурсионную программу</A>
+    <B>Б. об экскурсионной программе</B>
+    <C>В. экскурсионной программой</C>
+    <D>Г. с экскурсионной программой</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>46</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Прежде чем принять ваше предложение, я хотел бы обсудить 
+с вами … .</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. экскурсионную программу</A>
+    <B>Б. об экскурсионной программе</B>
+    <C>В. экскурсионной программой</C>
+    <D>Г. с экскурсионной программой</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>47</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Хотите встретиться … на летних каникулах?</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. своих друзей</A>
+    <B>Б. со своими друзьями</B>
+    <C>В. своим друзьям</C>
+    <D>Г. своими друзьями</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>48</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Я благодарен … за их помощь и поддержку.</ContentQuestion>
+    <AnswerTrue>Г</AnswerTrue>
+    <A>А. своих друзей</A>
+    <B>Б. со своими друзьями</B>
+    <C>В. своим друзьям</C>
+    <D>Г. своими друзьями</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>49</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Сергей поблагодарил … за поздравление.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. своих друзей</A>
+    <B>Б. со своими друзьями</B>
+    <C>В. своим друзьям</C>
+    <D>Г. своими друзьями</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>50</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Не могу пожаловаться: я довольна … .</ContentQuestion>
+    <AnswerTrue>Г</AnswerTrue>
+    <A>А. своих друзей</A>
+    <B>Б. со своими друзьями</B>
+    <C>В. своим друзьям</C>
+    <D>Г. своими друзьями</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>51</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> На юбилей отец пригласил только … .</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. близких родственников.</A>
+    <B>Б. близким родственникам.</B>
+    <C>В. с близкими родственниками</C>
+    <D>Г. к близким родственникам</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>52</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>В трудную минуту мы всегда советуемся … .</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. близких родственников.</A>
+    <B>Б. близким родственникам.</B>
+    <C>В. с близкими родственниками</C>
+    <D>Г. к близким родственникам</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>53</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Мы предложили … приехать к нам на лето.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. близких родственников.</A>
+    <B>Б. близким родственникам.</B>
+    <C>В. с близкими родственниками</C>
+    <D>Г. к близким родственникам</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>54</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Мой друг всегда опаздывает … .</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. на первом уроке</A>
+    <B>Б. за первый урок</B>
+    <C>В. на первый урок</C>
+    <D>Г. до первого урока</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>55</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Светы не было …, так как у неё болела голова</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. на первом уроке</A>
+    <B>Б. за первый урок</B>
+    <C>В. на первый урок</C>
+    <D>Г. до первого урока</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>56</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>За несколько минут … мы входим в аудиторию.</ContentQuestion>
+    <AnswerTrue>Г</AnswerTrue>
+    <A>А. на первом уроке</A>
+    <B>Б. за первый урок</B>
+    <C>В. на первый урок</C>
+    <D>Г. до первого урока</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>57</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Лифт быстро спускается … .</ContentQuestion>
+    <AnswerTrue>Г</AnswerTrue>
+    <A>А. на последнем этаже</A>
+    <B>Б. последний этаж</B>
+    <C>В. на последний этаж</C>
+    <D>Г. с последнего этажа</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>58</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> … кто-то стоит и разговаривает.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. на последнем этаже</A>
+    <B>Б. последний этаж</B>
+    <C>В. на последний этаж</C>
+    <D>Г. с последнего этажа</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>59</Number>
+    <Lever>A2</Lever>
+    <ContentQuestion> Старым людям трудно подниматься … .</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. на последнем этаже</A>
+    <B>Б. последний этаж</B>
+    <C>В. на последний этаж</C>
+    <D>Г. с последнего этажа</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>60</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Девятый этаж – … в этом доме.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. на последнем этаже</A>
+    <B>Б. последний этаж</B>
+    <C>В. на последний этаж</C>
+    <D>Г. с последнего этажа</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>61</Number>
+    <Lever>A2</Lever>
+    <ContentQuestion>Лекция по русской литературе перенесена … </ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. на среду</A>
+    <B>Б. от среды</B>
+    <C>В. в среду</C>
+    <D>Г. среду</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>62</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Экскурсия по городу состоится … с 9 до 12 часов.</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. на среду</A>
+    <B>Б. от среды</B>
+    <C>В. в среду</C>
+    <D>Г. среду</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>63</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Главный врач будет принимать больных каждую … .</ContentQuestion>
+    <AnswerTrue>Г</AnswerTrue>
+    <A>А. на среду</A>
+    <B>Б. от среды</B>
+    <C>В. в среду</C>
+    <D>Г. среду</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>64</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Он ушёл с работы … назад.</ContentQuestion>
+    <AnswerTrue>Г</AnswerTrue>
+    <A>А. на две минуты</A>
+    <B>Б. через две минуты</B>
+    <C>В. двух минут</C>
+    <D>Г. две минуты</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>65</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Он пришёл на урок … позже меня.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. на две минуты</A>
+    <B>Б. через две минуты</B>
+    <C>В. двух минут</C>
+    <D>Г. две минуты</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>66</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Звонок прозвенел … после того, как он вошёл в аудиторию.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. на две минуты</A>
+    <B>Б. через две минуты</B>
+    <C>В. двух минут</C>
+    <D>Г. две минуты</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>67</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Летом дети проводят .... у бабушки в деревне.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. на месяц</A>
+    <B>Б. месяц</B>
+    <C>В. за месяц</C>
+    <D>Г. в месяц</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>68</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Друг сильно изменился ....</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. на месяц</A>
+    <B>Б. месяц</B>
+    <C>В. за месяц</C>
+    <D>Г. в месяц</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>69</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Студенты уезжают на экскурсию в Москву ....</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. на месяц</A>
+    <B>Б. месяц</B>
+    <C>В. за месяц</C>
+    <D>Г. в месяц</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>70</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Обратите внимание на изменение расписания ... </ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. будущая неделя</A>
+    <B>Б. на будущей неделе</B>
+    <C>В. будущую неделю</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>71</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Поставьте торт в холодильник ... .</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. час</A>
+    <B>Б. на час</B>
+    <C>В. час назад</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>72</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Встретимся завтра у памятника ... .</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. в пятнадцать минут второго</A>
+    <B>Б. пятнадцать минут</B>
+    <C>В. с пятнадцати минут</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>73</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Туристы дошли до станции ... .</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. на час</A>
+    <B>Б. час</B>
+    <C>В. за час</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>74</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>На конференции выступало много ... .</ContentQuestion>
+    <AnswerTrue>Г</AnswerTrue>
+    <A>А. студент</A>
+    <B>Б. студенты</B>
+    <C>В. студента</C>
+    <D>Г. студентов</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>75</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Я хорошо знаю ... в нашей группе.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. три новых студента</A>
+    <B>Б. трёх новых студентов</B>
+    <C>В. с тремя новыми студентами</C>
+    <D>Г. о трёх новых студентах</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>76</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Мы хотим познакомиться ... .</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. три новых студента</A>
+    <B>Б. трёх новых студентов</B>
+    <C>В. с тремя новыми студентами</C>
+    <D>Г. о трёх новых студентах</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>77</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>В нашей группе учатся ... .</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. три новых студента</A>
+    <B>Б. трёх новых студентов</B>
+    <C>В. с тремя новыми студентами</C>
+    <D>Г. о трёх новых студентах</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>78</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Когда я кончил ... текст, я позвонил другу. </ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. перевести</A>
+    <B>Б. переводил</B>
+    <C>В. переводить</C>
+    <D>Г. перевёл</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>79</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Мы с друзьями давно собирались ... этот фильм.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. посмотрим</A>
+    <B>Б. посмотреть</B>
+    <C>В. посмотрели</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>80</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Он всегда, что хочет, то и ... .</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. делает</A>
+    <B>Б. делал</B>
+    <C>Б. делал</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>81</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Завтра мы с отцом поедем ... мне компьютер.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. покупать</A>
+    <B>Б. будем покупать</B>
+    <C>В. купили</C>
+    <D>Г. покупали</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>82</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Вчера по телевизору ... президент России.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. выступает</A>
+    <B>Б. выступал</B>
+    <C>В. выступать</C>
+    <D>Г. выступит</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>83</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Она давно решила ... в Уральский университет.</ContentQuestion>
+    <AnswerTrue>Г</AnswerTrue>
+    <A>А. поступит</A>
+    <B>Б. поступает</B>
+    <C>В. поступала</C>
+    <D>Г. поступать</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>84</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Во время урока в школе нельзя громко ... .</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. поговорить</A>
+    <B>Б. разговаривать</B>
+    <C>В. сказать</C>
+    <D>Г. разговаривают</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>85</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Пойдём сегодня в кафе, как только уроки .....</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. заканчивались</A>
+    <B>Б. кончатся</B>
+    <C>В. кончились</C>
+    <D>Г. кончались</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>86</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Ты написал доклад?
+  -- Нет ещё, но вечером обязательно ... .</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. пишу</A>
+    <B>Б. писал</B>
+    <C>В. напишу</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>87</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Весь вечер я ... домашнее задание.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. выполнял</A>
+    <B>Б. выполнил</B>
+    <C>В. выполню</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>88</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Обычно я всегда ... в 7 часов.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. встал</A>
+    <B>Б. встаю</B>
+    <C>В. вставать</C>
+    <D>Г. встану</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>89</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Сегодня я проспал и .... в 9 часов.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. встал</A>
+    <B>Б. встаю</B>
+    <C>В. вставать</C>
+    <D>Г. встану</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>90</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Брат закончил университет, но продолжает ... в аспирантуре.</ContentQuestion>
+    <AnswerTrue>Г</AnswerTrue>
+    <A>А. учится</A>
+    <B>Б. проучится</B>
+    <C>В. научится</C>
+    <D>Г. учиться</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>91</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>После концерта артисты начали ... на вопросы зрителей.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. ответить</A>
+    <B>Б. отвечать</B>
+    <C>В. ответили</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>92</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Наташа не любит ... много денег.</ContentQuestion>
+    <AnswerTrue>Г</AnswerTrue>
+    <A>А. тратится</A>
+    <B>Б. тратила</B>
+    <C>В. потратила</C>
+    <D>Г. тратить</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>93</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Раньше она всегда ... много времени на разговоры по телефону.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. тратится</A>
+    <B>Б. тратила</B>
+    <C>В. потратила</C>
+    <D>Г. тратить</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>94</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Ира ... целый час, объясняя брату решение задачи.</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. тратится</A>
+    <B>Б. тратила</B>
+    <C>В. потратила</C>
+    <D>Г. тратить</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>95</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Вчера мы долго ... ваш дом.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. искали</A>
+    <B>Б. нашли</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>96</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Друзья быстро ... нужный им адрес и вошли в дом.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. искали</A>
+    <B>Б. нашли</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>97</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Когда они ... билеты, ехать в театр было уже поздно.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. искали</A>
+    <B>Б. нашли</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>98</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Художник ... картину целый год.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. нарисовал</A>
+    <B>Б. рисовал</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>99</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Мой сын … этого клоуна за час.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. нарисовал</A>
+    <B>Б. рисовал</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>100</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Брат всегда ... только карандашами.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. нарисовал</A>
+    <B>Б. рисовал</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>101</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>-Саша, мы собираемся на стадион, ... с нами?</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. пойдём</A>
+    <B>Б. ходим</B>
+    <C>В. сходим</C>
+    <D>Г. сходить</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>102</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>– Мы каждое воскресенье ... в парк кататься
+на лыжах.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. пойдём</A>
+    <B>Б. ходим</B>
+    <C>В. сходим</C>
+    <D>Г. сходить</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>103</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Вам надо … в аптеку за лекарством.</ContentQuestion>
+    <AnswerTrue>Г</AnswerTrue>
+    <A>А. пойдём</A>
+    <B>Б. ходим</B>
+    <C>В. сходим</C>
+    <D>Г. сходить</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>104</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>- Андрей дома? - Нет, он ... в магазин.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. пошёл</A>
+    <B>Б. ходил</B>
+    <C>В. шёл</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>105</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Когда Антон ... через парк, он думал о словах Тани.</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. пошёл</A>
+    <B>Б. ходил</B>
+    <C>В. шёл</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>106</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Олег, ты вчера ... в театр? Там был прекрасный концерт.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. пошёл</A>
+    <B>Б. ходил</B>
+    <C>В. шёл</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>107</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Студенты долго ... на автобусе до Алапаевска, но совсем не устали,
+ потому что было очень интересно.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. ездили</A>
+    <B>Б. ехали</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>108</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Прошлым летом мои друзья ... на север Урала.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. ездили</A>
+    <B>Б. ехали</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>109</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Раньше мы с братом много ... по стране.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. ездили</A>
+    <B>Б. ехали</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>110</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Через неделю мы ... в Москву на
+конференцию.</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. ездим</A>
+    <B>Б. идём</B>
+    <C>В. поедем</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>111</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Обычно в воскресенье мы ... за город на дачу.
+Она находится в тридцати километрах от города.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. ездим</A>
+    <B>Б. идём</B>
+    <C>В. поедем</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>112</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Утром мы выходим из общежития и ... на остановку автобуса.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. ездим</A>
+    <B>Б. идём</B>
+    <C>В. поедем</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>113</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Учитель идёт на урок и ... в руках глобус.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. несёт</A>
+    <B>Б. носит</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>114</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Когда мальчик плачет, отец ... его на руках и поёт ему песенку.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. несёт</A>
+    <B>Б. носит</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>115</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Друг всегда ... с собой на работу ноутбук.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. несёт</A>
+    <B>Б. носит</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>116</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Каждое лето мои родители ... в Москву к моей
+сестре.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. летят</A>
+    <B>Б. летают</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>117</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Иногда птицы ... до тёплых стран долгие месяцы.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. летят</A>
+    <B>Б. летают</B>
+    <C></C>
+    <D></D>
+    <Grammar>Động Từ Chuyển Động</Grammar>
+  </Question>
+  <Question>
+    <Number>118</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Скоро будет дождь, поэтому птицы ... и
+кружатся низко над землёй.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. летят</A>
+    <B>Б. летают</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>119</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Отец улетает в Англию и ... туда наши
+подарки.</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. ведёт</A>
+    <B>Б. привёз</B>
+    <C>В. везёт</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>120</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Учитель ... за собой учеников. Они направляются в музей.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. ведёт</A>
+    <B>Б. привёз</B>
+    <C>В. везёт</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>121</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Мужчина бережно ... под руку старую женщину.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. ведёт</A>
+    <B>Б. привёз</B>
+    <C>В. везёт</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>122</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Прозвенел звонок и учитель ... в класс.</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. дошёл</A>
+    <B>Б. вышел</B>
+    <C>В. вошёл</C>
+    <D>Г. ушёл</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>123</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Сегодня мой друг ... до своего дома за
+полчаса.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. дошёл</A>
+    <B>Б. вышел</B>
+    <C>В. вошёл</C>
+    <D>Г. ушёл</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>124</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>- Виктор на месте?
+- Нет, он уже ... домой.</ContentQuestion>
+    <AnswerTrue>Г</AnswerTrue>
+    <A>А. дошёл</A>
+    <B>Б. вышел</B>
+    <C>В. вошёл</C>
+    <D>Г. ушёл</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>125</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Девушка медленно ... к столу и взяла записку.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. подошла</A>
+    <B>Б. пришла</B>
+    <C>В. отошла</C>
+    <D>Г. перешла</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>126</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Оля ... от окна и села на диван.</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. подошла</A>
+    <B>Б. пришла</B>
+    <C>В. отошла</C>
+    <D>Г. перешла</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>127</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Бабушка ... улицу и остановилась около
+киоска.</ContentQuestion>
+    <AnswerTrue>Г</AnswerTrue>
+    <A>А. подошла</A>
+    <B>Б. пришла</B>
+    <C>В. отошла</C>
+    <D>Г. перешла</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>128</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> По дороге домой я ... в магазин за продуктами.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. проехал</A>
+    <B>Б. заехал</B>
+    <C>В. ехал</C>
+    <D>Г. переехал</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>129</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Раньше я жил в деревне, а недавно ... в город.</ContentQuestion>
+    <AnswerTrue>Г</AnswerTrue>
+    <A>А. проехал</A>
+    <B>Б. заехал</B>
+    <C>В. ехал</C>
+    <D>Г. переехал</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>130</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> За час автобус ... 60 километров, но до реки
+не доехал.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. проехал</A>
+    <B>Б. заехал</B>
+    <C>В. ехал</C>
+    <D>Г. переехал</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>131</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Как зовут этого человека, с которым ... </ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. сидит с Иваном</A>
+    <B>Б. разговаривает Иван</B>
+    <C>В. ты ждёшь</C>
+    <D>Г. рассказывает Иван</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>132</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>. Как зовут этого человека, которого ... </ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. сидит с Иваном</A>
+    <B>Б. разговаривает Иван</B>
+    <C>В. ты ждёшь</C>
+    <D>Г. рассказывает Иван</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>133</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Как зовут этого человека, о котором ... </ContentQuestion>
+    <AnswerTrue>Г</AnswerTrue>
+    <A>А. сидит с Иваном</A>
+    <B>Б. разговаривает Иван</B>
+    <C>В. ты ждёшь</C>
+    <D>Г. рассказывает Иван</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>134</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Ты уже читал повесть, ... говорил вчера
+Борис?</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. которой</A>
+    <B>Б. о которой</B>
+    <C>В. которая</C>
+    <D>Г. которую</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>135</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Ты уже читал повесть, ... напечатана в
+журнале "Урал"?</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. которой</A>
+    <B>Б. о которой</B>
+    <C>В. которая</C>
+    <D>Г. которую</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>136</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Ты уже читал повесть, ... интересуется Борис?</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. которой</A>
+    <B>Б. о которой</B>
+    <C>В. которая</C>
+    <D>Г. которую</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>137</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Отец хочет познакомиться с моими друзьями, ... живут в соседнем доме.</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. которых</A>
+    <B>Б. с которыми</B>
+    <C>В. которые</C>
+    <D>Г. у которых</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>138</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Я люблю своих друзей, ... познакомился ещё в детстве.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. которых</A>
+    <B>Б. с которыми</B>
+    <C>В. которые</C>
+    <D>Г. у которых</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>139</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>На дне рождения будут мои друзья, ... ты
+давно знаешь.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. которых</A>
+    <B>Б. с которыми</B>
+    <C>В. которые</C>
+    <D>Г. у которых</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>140</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Я учусь на историческом факультете, ... мой друг на экономическом.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. а</A>
+    <B>Б. и</B>
+    <C>В. но</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>141</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Начался дождь, ... мы зашли в кафе.</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. а</A>
+    <B>Б. но</B>
+    <C>В. и</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>142</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Солнце село, ... было ещё совсем светло.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. и</A>
+    <B>Б. но</B>
+    <C>В. а</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>143</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Я думаю, ... ты поможешь мне выполнить это задание.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. что</A>
+    <B>Б. чтобы</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>144</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Сергей просил нас, ... мы пришли к нему вечером.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. что</A>
+    <B>Б. чтобы</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>145</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Ира сказала, ... она уезжает завтра в Москву.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. что</A>
+    <B>Б. чтобы</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>146</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Он дал мне словарь, ... я перевёл этот текст.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. что</A>
+    <B>Б. чтобы</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>147</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Ночью выпал снег, ... всё вокруг белое.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. потому что</A>
+    <B>Б. поэтому</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>148</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Татьяна добрая, отзывчивая девушка, ... её все любят.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. потому что</A>
+    <B>Б. поэтому</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>149</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Я не могу понять этот текст, ... в нём много незнакомых слов.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. потому что</A>
+    <B>Б. поэтому</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>150</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Мы готовились к контрольной работе, ... не позвонили тебе вчера.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. потому что</A>
+    <B>Б. поэтому</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>151</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Мы не знаем, ... так называется эта улица.</ContentQuestion>
+    <AnswerTrue>Г</AnswerTrue>
+    <A>А. куда</A>
+    <B>Б. где</B>
+    <C>В. почему</C>
+    <D>Г. как</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>152</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Учитель объяснил нам, ... выполнить это задание.</ContentQuestion>
+    <AnswerTrue>Г</AnswerTrue>
+    <A>А. куда</A>
+    <B>Б. где</B>
+    <C>В. почему</C>
+    <D>Г. как</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>153</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Вспомни, пожалуйста, ... мне звонил сегодня.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. кто</A>
+    <B>Б. где</B>
+    <C>В. что</C>
+    <D>Г. как</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>154</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Отсюда плохо видно, ... написано на доске.</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. кто</A>
+    <B>Б. где</B>
+    <C>В. что</C>
+    <D>Г. как</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>155</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Я никак не могу понять, ... он так радуется.</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. о чём</A>
+    <B>Б. чего</B>
+    <C>В. чему</C>
+    <D>Г. с чем</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>156</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Саша спросил меня, ... я люблю пить кофе.</ContentQuestion>
+    <AnswerTrue>Г</AnswerTrue>
+    <A>А. о чём</A>
+    <B>Б. чего</B>
+    <C>В. чему</C>
+    <D>Г. с чем</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>157</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Я не помню, ... рассказывала вчера Нина.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. о чём</A>
+    <B>Б. чего</B>
+    <C>В. чему</C>
+    <D>Г. с чем</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>158</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Как только я прилечу в Москву, я ... вам телеграмму.</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. буду отправлять</A>
+    <B>Б. отправляю</B>
+    <C>В. отправлю</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>159</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Когда я переводил текст, друг... мне.</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. помогал</A>
+    <B>Б. поможет</B>
+    <C>В. помогает</C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>160</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Мы успеем в театр, ...</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. если бы ты пришёл вовремя </A>
+    <B>Б. если ты придёшь вовремя</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>161</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Мы будем очень рады,...</ContentQuestion>
+    <AnswerTrue>Б</AnswerTrue>
+    <A>А. если бы ты пришёл вовремя </A>
+    <B>Б. если ты придёшь вовремя</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>162</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion> Мы поехали бы к Наташе, ... .</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. если бы ты пришёл вовремя </A>
+    <B>Б. если ты придёшь вовремя</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>163</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Мы не опоздали бы на поезд, ... .</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. если бы ты пришёл вовремя </A>
+    <B>Б. если ты придёшь вовремя</B>
+    <C></C>
+    <D></D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>164</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Хотя он очень занят, но ...</ContentQuestion>
+    <AnswerTrue>А</AnswerTrue>
+    <A>А. находит время для чтения</A>
+    <B>Б. не читает журналы</B>
+    <C>В. не прочитает журнал за вечер</C>
+    <D>Г. не читал бы журнал весь вечер</D>
+    <Grammar></Grammar>
+  </Question>
+  <Question>
+    <Number>165</Number>
+    <Lever>A1</Lever>
+    <ContentQuestion>Если он будет очень занят, то ... .</ContentQuestion>
+    <AnswerTrue>В</AnswerTrue>
+    <A>А. находит время для чтения</A>
+    <B>Б. не читает журналы</B>
+    <C>В. не прочитает журнал за вечер</C>
+    <D>Г. не читал бы журнал весь вечер</D>
+    <Grammar></Grammar>
+  </Question>
+</Questions>

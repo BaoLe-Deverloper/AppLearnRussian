@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Grammars>
+  <Grammar>
+    <GrammarName></GrammarName>
+    <CONTENT>dsfsfe</CONTENT>
+  </Grammar>
+  <Grammar>
+    <GrammarName>Danh Từ Các Cách</GrammarName>
+    <CONTENT>NULLdfadfa</CONTENT>
+  </Grammar>
+  <Grammar>
+    <GrammarName>Tính Từ Các Cách</GrammarName>
+    <CONTENT>afas</CONTENT>
+  </Grammar>
+  <Grammar>
+    <GrammarName>Động Từ CB</GrammarName>
+    <CONTENT>dfaf</CONTENT>
+  </Grammar>
+  <Grammar>
+    <GrammarName>Động Từ HCB</GrammarName>
+    <CONTENT>dfaf</CONTENT>
+  </Grammar>
+  <Grammar>
+    <GrammarName>Động Từ Chuyển Động</GrammarName>
+    <CONTENT>dfaf</CONTENT>
+  </Grammar>
+  <Grammar>
+    <GrammarName>Giới Từ</GrammarName>
+    <CONTENT>afas</CONTENT>
+  </Grammar>
+  
+  
+</Grammars>
